@@ -1,1 +1,0 @@
-powershell -c calc.exe
